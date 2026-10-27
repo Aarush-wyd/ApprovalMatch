@@ -1,0 +1,9 @@
+{
+  "name": "ApprovalMatch — Hospital Bill Review",
+  "short_name": "ApprovalMatch",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f8fc",
+  "theme_color": "#123b62",
+  "description": "A private, browser-based organizer for hospital bill charges."
+}
